@@ -12,3 +12,5 @@ Pasas
 Melón
 Pera
 Piña
+Azúcar
+Sal
