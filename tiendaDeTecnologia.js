@@ -4,7 +4,7 @@ const celulares = [
         modelo: "A31",
         memoria: "64GB",
         garantia: "6 meses",
-        precio: 90000,
+        precio: 10000,
     },
     {
         marca: "Apple",
